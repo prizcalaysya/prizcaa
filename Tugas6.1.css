@@ -1,0 +1,12 @@
+. wadah {
+    tampilan : fleksibel;
+    justify-content : center;
+    celah :  20 piksel ;
+}
+
+. wadah1 {
+    tampilan : fleksibel;
+    justify-content : center;
+    margin-atas :  20 px ;
+    celah :  10 piksel ;
+}
