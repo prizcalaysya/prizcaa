@@ -1,0 +1,43 @@
+tubuh {
+    warna latar :  rgb ( 252 ,  133 ,  89 );
+    bantalan :  30 piksel ;
+}
+
+. tajuk {
+    warna latar :  rgb ( 198 ,  255 ,  255 );
+    tinggi :  100 piksel ;
+}
+
+. samping {
+    warna latar : aqua;
+    lebar :  300 piksel ;
+    tinggi :  550 piksel ;
+}
+
+artikel {
+    warna latar belakang : oranye;
+    margin-kiri :  350 px ;
+    margin-atas :  -582 px ;
+    tinggi :  550 piksel ;
+}
+
+. catatan kaki {
+    warna latar belakang :  rgb ( 198 ,  255 ,  255 );
+    tinggi :  100 piksel ;
+}
+
+gambar {
+    lebar :  180 piksel ;
+    margin :  10 piksel ;
+}
+
+. foto {
+    tampilan : fleksibel;
+    justify-content : pusat;
+    margin-atas :  250 px ;
+}
+
+p {
+    perataan teks : tengah;
+    ukuran font :  30 px ;
+}
