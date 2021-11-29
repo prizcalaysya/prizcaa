@@ -1,0 +1,36 @@
+. wadah {
+    tampilan : fleksibel;
+    batas :  0 ;
+    ukuran font :  200 % ;
+}
+
+navigasi {
+    latar belakang : merah muda;
+    tinggi :  70 vh ;
+    lebar :  70 vh ;
+    bantalan :  20 piksel ;
+}
+
+header ,  footer {
+    latar belakang : khaki;
+    lebar :  190 vh ;
+    tinggi :  10 vh ;
+    bantalan :  20 piksel ;
+}
+
+artikel {
+    lebar :  120 vh ;
+    tinggi :  50 vh ;
+    bantalan :  20 piksel ;
+}
+
+samping {
+    latar belakang : air;
+    lebar :  63 vh ;
+    tinggi :  50 vh ;
+    bantalan :  20 piksel ;
+}
+
+. isi {
+    tampilan : fleksibel;
+}
